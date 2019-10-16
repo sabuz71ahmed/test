@@ -1,0 +1,25 @@
+
+.owl-carousel{
+	
+}
+
+.item{
+	height:550px;
+	width:100%;
+}
+
+.owl-nav{
+	position: absolute;
+    top: 40%;
+    left: 0;
+    right: 0;
+    width: 100%;
+    font-size: 100px;
+	color:white;
+		}
+		
+.owl-next{
+	float:right;
+	margin-right:30px;
+}
+
